@@ -1,0 +1,2 @@
+# gemini_test_apikey
+批量测试gmini的apikey是否可用
